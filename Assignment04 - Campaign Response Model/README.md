@@ -1,6 +1,9 @@
 # Campaign Response
 
 ## Data Preparation
+##### Notebook : [Campaign Response Model](https://github.com/Nasalinn/BADS7105-CM-Analytics/blob/main/Assignment04%20-%20Campaign%20Response%20Model/Campaign_Response_Model.ipynb)
+
+##### Google Colab : [Campaign Response Model](https://colab.research.google.com/drive/1VsDmfjsrEubPwtoJm8rsUjXobCqOEiI4)
 ### create data set with RFM variables
 
 ![image](https://user-images.githubusercontent.com/95351692/147575315-2ad8c4ad-aad9-4122-b418-e36d64e3fec1.png)
