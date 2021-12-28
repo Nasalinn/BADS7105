@@ -7,5 +7,6 @@ Note: the dataset received is just a part of Dunhumbly public dataset which is w
 
 # 2.) Prepare customer single view
 ## transfrom data
-### CUST_LIFESTAGE 
+##### CUST_LIFESTAGE 
 OA,OF,OT,PE,YA,YF | 1,2,3,4,5,6
+----- | -----|
