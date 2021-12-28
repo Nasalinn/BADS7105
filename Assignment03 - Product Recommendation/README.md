@@ -3,6 +3,9 @@
 ## Dataset
 A survey asking whether or not the user (students from the class) has ever purchased/used an item. We received 29 responses, and each respondent rated each item from 26 items as Yes or No.
 
+##### Notebook : [Product Recomment](https://github.com/Nasalinn/BADS7105-CM-Analytics/blob/main/Assignment03%20-%20Product%20Recommendation/Product_Recommendation.ipynb)
+##### Google Colab : [Product Recomment](https://colab.research.google.com/drive/1AZ3lNBjEtpYCSto9UxHRRqbq9r8AUmtA#scrollTo=pPGhwFXMJlNm)
+
 ## Top Least common items
 To see how common (ever purchased by users) each item is
 
