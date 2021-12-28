@@ -8,13 +8,13 @@ Note: the dataset received is just a part of Dunhumbly public dataset which is w
 ## 2.) Prepare customer single view
 ### transfrom data
 ##### CUST_LIFESTAGE 
-OA,OF,OT,PE,YA,YF | 1,2,3,4,5,6
+OA, OF, OT, PE, YA, YF | 1,2,3,4,5,6
 ----- | -----|
 ##### Basket_Type
-Top Up,Full Shop,Small Shop,XX | 1,2,3,0
+Top Up, Full Shop, Small Shop, XX | 1,2,3,0
 ----- | -----|
 ##### BASKET_DOMINANT_MISSION
-Grocery,Fresh,Mixed,Nonfood,XX | 1,2,3,4,0
+Grocery, Fresh, Mixed, Nonfood, XX | 1,2,3,4,0
 ----- | -----|
 
 ### Define features
@@ -32,20 +32,23 @@ Grocery,Fresh,Mixed,Nonfood,XX | 1,2,3,4,0
 
 ## 3.) Cluster customers
 A Comparative Efficiency of Clustering using Silhouette, Calinski-Harabasz, Davies-Bouldin 
+
 ![image](https://user-images.githubusercontent.com/95351692/147571211-b1bd837d-83e6-4dae-ad50-9e28754948a3.png)
+
 The results of the run concluded that Spectral Clustering and KMeans Clustering were the most efficient in classification.
 
 ### KMeans Clustering
 Create KMean model 
-
 #### Choosing K number of clusters
 Choose K = 5
+
 ![image](https://user-images.githubusercontent.com/95351692/147571375-9ba77060-7f04-45f5-a5fe-af8ecb653161.png)
 
 ## 4.) Clustering Result Analysis
 
 ### Spectral Clustering
 ![image](https://user-images.githubusercontent.com/95351692/147571501-c6751abd-ef72-4bf6-86a3-6e0b7a1213b9.png)
+
 As a result of using Spectral Clustering in segmentation, it is evident that the classification is poor.
 ### KMeans Clustering
 ![image](https://user-images.githubusercontent.com/95351692/147571608-65b44d6e-694c-4cc7-b2fb-99b772a8e054.png)
