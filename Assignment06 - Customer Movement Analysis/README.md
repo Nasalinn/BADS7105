@@ -10,7 +10,5 @@ New | ✅ | ❌ | ❌ |
 Churn | ❌ | ✅ | - |
 
 Current: made purchases this month (M)
-
 Previous: made purchases last month (M-1)
-
 Before: made purchase before last month (< M-1)
