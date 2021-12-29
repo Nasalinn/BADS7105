@@ -9,6 +9,6 @@ Reactivated | ✅ | ❌ | ✅ |
 New | ✅ | ❌ | ❌ |
 Churn | ❌ | ✅ | - |
 
-Current: made purchases this month (M)
-Previous: made purchases last month (M-1)
-Before: made purchase before last month (< M-1)
+Current: made purchases this month (M)__
+Previous: made purchases last month (M-1)__
+Before: made purchase before last month (< M-1)__
