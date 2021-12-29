@@ -14,7 +14,7 @@ Google Colab : [Voice of Customer](https://colab.research.google.com/drive/19G_H
 ### Step 2 - document clustering using KMeans  
 ![image](https://user-images.githubusercontent.com/95351692/147641188-89f89011-6c82-4f1e-80dd-414c1a3f1851.png)
 
-### Step 3 - document clustering using Agglomorative Clustering with cosine similarity
+### Step 3 - document clustering using Agglomerative Clustering with cosine similarity
 ![image](https://user-images.githubusercontent.com/95351692/147641291-60a18c48-b4dc-4074-ad75-f5e9ae536592.png)
 
 ### Step 4 - result discussion
