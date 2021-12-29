@@ -17,7 +17,7 @@ Before: made purchase before last month (< M-1)
 Supermarket, the same data as used in Customer Segmentation homework.  
 
 ## Data Preparation
-using the SQL script to prepare the report.
+using the SQL script to prepare the report.  
 SQL : [Customer Movement Analysis](https://github.com/Nasalinn/BADS7105-CM-Analytics/blob/main/Assignment06%20-%20Customer%20Movement%20Analysis/Customer%20Movement.sql)  
 
 ## Result
