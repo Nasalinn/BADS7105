@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-Notebook : [Customer Segmentation](https://github.com/Nasalinn/BADS7105-CRM-Analytics/blob/main/Assignment02%20-%20Customer%20Segmentation/Customer_Segmentation.ipynb)
+Notebook : [Customer Segmentation](https://github.com/Nasalinn/BADS7105-CRM-Analytics/blob/main/Assignment02%20-%20Customer%20Segmentation/Customer_Segmentation.ipynb)  
 Google Colab : [Customer Segmentation](https://colab.research.google.com/drive/17CNEbF4wfwOvCbAFujzRTbfh-ytAOg2f)
 
 ## 1.) Import Dataset
